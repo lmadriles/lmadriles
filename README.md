@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Madriles</h1>
 <h3 align="center">A Machine Learner Engineer from Brazil</h3>
 
-- 🔭 I’m currently working on **camara**
+- 🔭 I’m currently working on **binance-ir**
 
 - 🌱 I’m currently learning **FastAPI, SQLite**
 
