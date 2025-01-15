@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Madriles</h1>
 <h3 align="center">A Machine Learner Engineer from Brazil</h3>
 
-- 🔭 I’m currently working on **binance-ir**
+- 🔭 I’m currently working on **rails**
 
-- 🌱 I’m currently learning **FastAPI, SQLite**
+- 🌱 I’m currently learning **FastAPI, Docker**
 
 - 👯 I’m looking to collaborate on **data science projects**
-
-- 🤝 I’m looking for help with **machine learning skills**
-
-- 💬 Ask me about **deep learning**
 
 - 📫 How to reach me **lmadriles@gmail.com**
 
